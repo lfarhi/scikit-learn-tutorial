@@ -1,6 +1,6 @@
 class: center, middle
 
-# MOOC Machine learning with scikit-learn
+# MOOC Machine learning with scikit-learn test
 
 <img src="../scikit-learn-logo.svg" style="width: 90%;">
 
