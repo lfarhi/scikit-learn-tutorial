@@ -12,7 +12,7 @@ All notebook material: https://github.com/lesteve/scikit-learn-tutorial/
 
 You need an internet connection but you will not have to install any package
 locally.
-
+test
 
 ## Running the tutorial locally
 
